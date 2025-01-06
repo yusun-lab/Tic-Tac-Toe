@@ -10,7 +10,7 @@
 .square {
     display: flex;
     flex-wrap: wrap;
-    /* float: left; */
+    /* float: left; 'If flex, no need'*/
     border: 1px solid black;
     justify-content: center;
     align-items: center;
